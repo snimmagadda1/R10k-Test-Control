@@ -43,16 +43,16 @@ mod 'puppet/windows_firewall', '1.0.0'
 mod 'shamil/zabbix_reports', '0.2.0'
 
 # Modules that are "probably ok" to pull from forge
-mod 'inkblot/bind', '3.2.0'
-mod 'mkrakowitzer/confluence', '999.999.999'
-mod 'mkrakowitzer/deploy', '0.0.3'
-mod 'elasticsearch/elasticsearch', '0.10.0'
-mod 'bfraser/grafana', '2.1.0'
-mod 'evenup/kibana', '2.2.0' # Note: Module has moved on puppet forge
-mod 'jhoblitt/mdadm', '0.1.0'
-mod 'maestrodev/ssh_keygen', '1.3.0'
-mod 'nanliu/staging', '1.0.3'
-mod 'maestrodev/wget', '1.7.0'
+#mod 'inkblot/bind', '3.2.0'
+#mod 'mkrakowitzer/confluence', '999.999.999'
+#mod 'mkrakowitzer/deploy', '0.0.3'
+#mod 'elasticsearch/elasticsearch', '0.10.0'
+#mod 'bfraser/grafana', '2.1.0'
+#mod 'evenup/kibana', '2.2.0' # Note: Module has moved on puppet forge
+#mod 'jhoblitt/mdadm', '0.1.0'
+#mod 'maestrodev/ssh_keygen', '1.3.0'
+#mod 'nanliu/staging', '1.0.3'
+#mod 'maestrodev/wget', '1.7.0'
 
 
 # modules from git 
@@ -60,6 +60,6 @@ mod 'nxlog',
   :git => 'https://github.com/genebean/genebean-nxlog',
   :ref => 'master'
 
-#mod 'emerald',
-#  :git => 'https://github.com/rlrnd/emerald.git',
-#  :ref => 'master'
+mod 'apt_cacher',
+  :git => 'git@github.com:rlrnd/apt_cacher.git'
+:ref => 'master'
