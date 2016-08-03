@@ -56,9 +56,9 @@ mod 'shamil/zabbix_reports', '0.2.0'
 
 
 # modules from git 
-mod 'nxlog',
-  :git => 'https://github.com/genebean/genebean-nxlog',
-  :ref => 'master'
+#mod 'nxlog',
+#  :git => 'https://github.com/genebean/genebean-nxlog',
+#  :ref => 'master'
 
 mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
