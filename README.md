@@ -17,4 +17,7 @@ Specs:
 
 ## Setup
 ### Puppetfile
+A Puppetfile is a Ruby based DSL that lists modules to install, what version to install, where to pull the modules from, and where to install them. 
+
+The current implmentation of the Puppetfile in r10k does **not include dependency resolution** but it is currently in development. 
 ## Usage
