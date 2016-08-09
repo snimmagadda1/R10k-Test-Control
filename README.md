@@ -34,5 +34,8 @@ Librarian puppet and r10k have a select list of commands pertaining solely to th
 
   `r10k puppetfile purge`
 
+#### Syntax
+##### forge
+At the top of the Puppetfile, the `forge` setting tells r10k which server the Forge modules are pulled from. 
 
 ## Usage
