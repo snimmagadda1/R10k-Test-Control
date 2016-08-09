@@ -5,7 +5,7 @@
 
 ## Overview
 R10k is a tool to deploy Puppet environments and modules with granular precision. It utilizes a Puppetfile format along with dynamic branch => environment mapping.
-+ Version: 2.3.0
+++ Version: 2.3.0
 
 ## Setup
 ## Usage
