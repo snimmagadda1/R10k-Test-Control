@@ -9,6 +9,7 @@ R10k is a tool to deploy Puppet environments and modules with granular precision
 Specs:
 + Supports Ruby versions **1.9.3 (in use)**, 2.0.0, 2.1.0.
 + R10k version 2.3.0
++ Puppet 3.0.0+
 
 ## Setup
 ## Usage
