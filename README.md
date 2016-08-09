@@ -26,4 +26,10 @@ Librarian puppet and r10k have a select list of commands pertaining solely to th
 
 1. Update and/or install all modulesi n a given Puppetfile
   `r10k puppetfile install`
+2. Check Puppetfile syntax 
+  `r10k puppetfile check`
+3. Remove modules not specified in Puppetfile 
+  `r10k puppetfile purge`
+
+
 ## Usage
