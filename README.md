@@ -1,8 +1,8 @@
 # Table of Contents
 1. [Overview](#overview)
-2. [Example2](#example2)
-3. [Third Example](#third-example)
+2. [Setup](#setup)
+3. [Usage](#usage)
 
 ## Overview
-## Example2
-## Third Example
+## Setup
+## Usage
