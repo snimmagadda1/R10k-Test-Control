@@ -1,3 +1,6 @@
+# production controls /etc/puppet/modules
+moduledir '/etc/puppet/modules'
+
 # puppet forge source
 forge "https://forgeapi.puppetlabs.com"
 
