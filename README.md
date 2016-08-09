@@ -1,7 +1,9 @@
 # Table of Contents
 1. [Overview](#overview)
 2. [Setup](#setup)
+
   a). [Puppetfile](#puppetfile)
+  
 3. [Usage](#usage)
 
 ## Overview
