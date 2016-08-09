@@ -25,10 +25,13 @@ The current implmentation of the Puppetfile in r10k does **not include dependenc
 Librarian puppet and r10k have a select list of commands pertaining solely to the Puppetfile. These commands assume that the Puppetfile to operate on is in the current working directory, and modules specified should be installed in the 'modules' directory relative to the current working directory. 
 
 1. Update and/or install all modulesi n a given Puppetfile
+
   `r10k puppetfile install`
 2. Check Puppetfile syntax 
+
   `r10k puppetfile check`
 3. Remove modules not specified in Puppetfile 
+
   `r10k puppetfile purge`
 
 
