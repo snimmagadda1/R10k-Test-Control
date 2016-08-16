@@ -44,6 +44,8 @@ mod 'puppet/unattended_upgrades', '1.1.1'
 mod 'puppetlabs/vcsrepo', '1.3.2'
 mod 'puppet/windows_firewall', '1.0.0'
 mod 'shamil/zabbix_reports', '0.2.0'
+mod 'wdijkerman/webhook'
+mod 'ploperations/bundler'
 
 # Modules that are "probably ok" to pull from forge
 #mod 'inkblot/bind', '3.2.0'
