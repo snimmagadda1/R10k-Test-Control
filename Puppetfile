@@ -62,6 +62,8 @@ mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
   :ref => 'r10ktest'
   
-
+mod 'webhook',
+  :git => 'git@github.com:snimmagadda1/puppet-webhook.git',
+  :ref => 'master'
   
 
