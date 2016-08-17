@@ -65,3 +65,7 @@ mod 'nxlog',
 mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
   :ref => 'master'
+  
+mod 'apt_cacher',
+  :git => 'git@github.com:rlrnd/apt_cacher.git',
+  :ref => 'master'
