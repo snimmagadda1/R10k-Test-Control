@@ -1,4 +1,4 @@
-# production controls /etc/puppet/modules
+# production controls /etc/puppet/modules please work
 moduledir '/etc/puppet/modules'
 
 # puppet forge source
