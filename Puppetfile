@@ -8,7 +8,6 @@ forge "https://forgeapi.puppetlabs.com"
 mod 'puppetlabs/apache', '1.6.0'
 mod 'puppetlabs/apt', '2.2.1'
 mod 'herculesteam/augeasproviders_core', '2.1.2'
-mod 'herculesteam/augeasproviders_grub', '2.4.0'
 mod 'herculesteam/augeasproviders_sysctl', '2.0.2'
 mod 'puppetlabs/concat', '2.2.0'
 mod 'electrical/file_concat', '1.0.1'
@@ -65,8 +64,6 @@ mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
   :ref => 'r10ktest'
   
-mod 'webhook',
-  :git => 'git@github.com:snimmagadda1/puppet-webhook.git',
-  :ref => 'master'
+
   
 
