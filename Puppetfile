@@ -8,7 +8,6 @@ forge "https://forgeapi.puppetlabs.com"
 mod 'puppetlabs/activemq', '0.4.0'
 mod 'puppetlabs/apache', '1.6.0'
 mod 'puppetlabs/apt', '2.2.1'
-mod 'nanliu/archive', '0.3.0'
 mod 'herculesteam/augeasproviders_core', '2.1.2'
 mod 'herculesteam/augeasproviders_grub', '2.4.0'
 mod 'herculesteam/augeasproviders_sysctl', '2.0.2'
