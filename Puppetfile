@@ -68,4 +68,4 @@ mod 'apt_cacher',
   
 mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
-  :ref => 'master'
+  :ref => 'r10ktest'
