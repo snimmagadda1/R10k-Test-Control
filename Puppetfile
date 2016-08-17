@@ -1,4 +1,4 @@
-# production controls /etc/puppet/modules please work
+# production controls /etc/puppet/modules please workdasdfs
 moduledir '/etc/puppet/modules'
 
 # puppet forge source
