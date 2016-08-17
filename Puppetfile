@@ -26,7 +26,6 @@ mod 'mkrakowitzer/jira', '999.999.999'
 mod 'camptocamp-kmod', '2.1.0'
 mod 'saz/locales', '2.2.2'
 mod 'elasticsearch/logstash', '0.6.4'
-mod 'puppetlabs/lvm', '0.5.0'
 
 mod 'puppetlabs/motd', '1.4.0'
 mod 'puppetlabs/ntp', '4.1.2'
