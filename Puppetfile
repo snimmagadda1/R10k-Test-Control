@@ -5,7 +5,6 @@ moduledir '/etc/puppet/modules'
 forge "https://forgeapi.puppetlabs.com"
 
 # modules 
-mod 'puppetlabs/activemq', '0.4.0'
 mod 'puppetlabs/apache', '1.6.0'
 mod 'puppetlabs/apt', '2.2.1'
 mod 'herculesteam/augeasproviders_core', '2.1.2'
