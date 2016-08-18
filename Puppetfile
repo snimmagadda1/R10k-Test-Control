@@ -34,7 +34,7 @@ mod 'saz/sudo', '3.1.0'
 mod 'puppet/unattended_upgrades', '1.1.1'
 mod 'puppetlabs/vcsrepo', '1.3.2'
 mod 'ploperations/bundler'
-#mod 'wdijkerman/webhook'
+mod 'wdijkerman/webhook'
 # Modules that are "probably ok" to pull from forge
 #mod 'inkblot/bind', '3.2.0'
 #mod 'mkrakowitzer/confluence', '999.999.999'
@@ -61,8 +61,6 @@ mod 'apt_cacher',
   :git => 'git@github.com:rlrnd/apt_cacher.git',
   :ref => 'r10ktest'
   
-mod 'webhook',
-  :git => 'git@github.com:snimmagadda1/puppet-webhook.git',
-  :ref => 'master'
+
   
 
