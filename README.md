@@ -7,7 +7,7 @@
 3. [Usage](#usage)
 
 ## Overview
-R10k is a tool to deploy Puppet environments and modules with granular precision. It utilizes a Puppetfile format along with dynamic branch => environment mapping.
+R10k is a tool to deploy Puppet environments and modules with granular precision. It utilizes a Puppetfile format along with dynamic branch => environment mapping. This is an old control repo tested during a previous position.
 
 Specs:
 + Supports Ruby versions **1.9.3 (in use)**, 2.0.0, 2.1.0.
